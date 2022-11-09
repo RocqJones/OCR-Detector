@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "218528710779",
+    "project_id": "ocr-detector-cbcc3",
+    "storage_bucket": "ocr-detector-cbcc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218528710779:android:d383a730f789a9937622de",
+        "android_client_info": {
+          "package_name": "com.mtek.ocrdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218528710779-rtvbcu3tbfmeckn8buck9rfltj7vbnot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtek.ocrdetector",
+            "certificate_hash": "4fe035a8dc9c4c74f9ae33bf577fc15e0ff25595"
+          }
+        },
+        {
+          "client_id": "218528710779-5ogcqqm6jpo9sao19p1hj7la4qtuk1ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjJnlwmhdXEvl-8DbFrk4RAisahgVflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218528710779-5ogcqqm6jpo9sao19p1hj7la4qtuk1ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
