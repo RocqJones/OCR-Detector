@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OCR Detector</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="upload_from_gallery">Upload From Gallery</string>
 </resources>
