@@ -2,4 +2,6 @@
     <string name="app_name">OCR Detector</string>
     <string name="capture_image">Capture Image</string>
     <string name="upload_from_gallery">Upload From Gallery</string>
+    <string name="results_will_show_here">Results will show here...</string>
+    <string name="icon">icon</string>
 </resources>
