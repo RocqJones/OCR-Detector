@@ -1,4 +1,4 @@
-package com.mtek.ocrdetector
+package com.rocqjones.ocrdetector
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

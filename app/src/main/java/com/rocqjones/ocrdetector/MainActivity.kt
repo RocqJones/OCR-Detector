@@ -1,4 +1,4 @@
-package com.mtek.ocrdetector
+package com.rocqjones.ocrdetector
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -16,7 +16,7 @@ import androidx.core.content.ContextCompat
 import com.google.firebase.ml.vision.FirebaseVision
 import com.google.firebase.ml.vision.common.FirebaseVisionImage
 import com.google.firebase.ml.vision.text.FirebaseVisionText
-import com.mtek.ocrdetector.databinding.ActivityMainBinding
+import com.rocqjones.ocrdetector.databinding.ActivityMainBinding
 import java.io.InputStream
 
 

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mtek.ocrdetector'
+    namespace 'com.rocqjones.ocrdetector'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.mtek.ocrdetector"
+        applicationId "com.rocqjones.ocrdetector"
         minSdk 21
         targetSdk 33
         versionCode 1
