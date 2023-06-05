@@ -1,4 +1,4 @@
-package com.mtek.ocrdetector
+package com.rocqjones.ocrdetector
 
 import org.junit.Test
 
